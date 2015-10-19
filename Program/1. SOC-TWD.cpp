@@ -31,5 +31,12 @@ new=0
 while([Distance(x,y) != []]){
 	new+=1;
 	Set the centroid of rnew be the objek x1 corresponding to the first
+	row of [Distance(x,y)];
+	Cover(rnew) = Neighbor(x1);
+	for each xi in Cover(rnew){
+		for each dimension value x[d][i] of x[i]{
+			//...
+		}
+	}
 }
 
