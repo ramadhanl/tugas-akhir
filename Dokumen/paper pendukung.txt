@@ -1,0 +1,14 @@
+Sorting : 
+1. Bidirectional Expansion - Insertion Algorithm for Sorting
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5395036&queryText=insertion%20sort&newsearch=true
+2. A bi-partitioned insertion algorithm for sorting
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5234731&queryText=insertion%20sort&newsearch=true
+
+Feature selection :
+1. Feature Selection via Global Redundancy Minimization
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097079&queryText=feature%20selection&newsearch=true
+2. A Mutual Information-Based Hybrid Feature Selection Method for Software Cost Estimation Using Feature Clustering
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6899197&queryText=feature%20selection&newsearch=true
+3. Intrusion feature selection using Modified Heuristic Greedy Algorithm of Itemset
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6645936&queryText=feature%20selection&newsearch=true
+
